@@ -1,6 +1,6 @@
 
 # GlassWire Service WatchDog
-Small little program for making sure the the GlassWire Service stays open.
+Small little program for making sure the the GlassWire Service stays open and clean up its dmp files that it puts on the Desktop.
 
 This was made due to the Service continuously crashing for no reason.
 
